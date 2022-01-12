@@ -3,6 +3,7 @@
     <head>
         <link rel="stylesheet" href="../css/admin.css">
         <title>Kemo's Restaurant- Admin/Login</title>
+        <link rel="icon" href="<?php echo SITE_URL; ?>images/kemo-logo.png"/>
     </head>
     <body>
 
