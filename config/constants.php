@@ -26,4 +26,5 @@ use Dotenv\Dotenv;
     // Connect to DB
     $conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password);
     $db_select = mysqli_select_db($conn, $cleardb_db);
+
 ?>
