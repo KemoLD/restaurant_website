@@ -129,7 +129,7 @@
                         $upload = move_uploaded_file($source_path, $destination_path);
                         if($upload == false){
                             $_SESSION['upload'] = "<div class='error'>Failed to upload image</div>";
-                            header("location:".SITE_URL.'admin/update-category.php') ; //redirect page
+                            header("location:".SITE_URL.'admin/update-categories.php') ; //redirect page
                             die(); //stop the process from insertig data into database
                         }
 
