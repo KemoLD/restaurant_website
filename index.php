@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="<?php echo SITE_URL; ?>images/kemo-logo.png"/>
+    <link rel="icon" href="images/kemo-logo.png"/>
 </head>
 
 <body>
