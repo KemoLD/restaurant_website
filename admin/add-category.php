@@ -124,7 +124,7 @@
                     header("location:".SITE_URL.'admin/manage-categories.php') ; //redirect page
                 }else{
                     $_SESSION['add'] = "<div class='error'>Failed to add new category</div>";
-                    header("location:".SITE_URL.'admin/add-category.php');  //redirect page
+                    header("location:".SITE_URL.'admin/add-categories.php');  //redirect page
                 }
 
             }
