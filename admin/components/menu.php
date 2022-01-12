@@ -1,4 +1,5 @@
 <?php include('../config/constants.php'); ?>
+<?php include('access-control.php'); ?>
 
 <div class="menu text-center">
     <div class="wrapper">
