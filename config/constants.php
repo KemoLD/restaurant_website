@@ -4,8 +4,8 @@
     define('SITE_URL', 'http://localhost/restaurant_website/');
     //define('SITE_URL', 'https://kemos-restaurant.herokuapp.com/');
     
-
-    define('LOCALHOST', 'localhost');
+    define('LOCALHOST', '127.0.0.1');
+    //define('LOCALHOST', 'localhost');
     define('DB_USERNAME', 'root');
     define('DB_PASSWORD', '');
     define('DB_NAME','restaurant-order');
