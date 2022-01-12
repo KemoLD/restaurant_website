@@ -53,7 +53,7 @@
                     ?>
                     <h1><?php echo $count2 ?></h1>
                     <br/>
-                    Food Item
+                    Food Items
                 </div>
 
                 <div class="col-4 text-center">
@@ -69,7 +69,7 @@
                     ?>
                     <h1><?php echo $count3 ?></h1>
                     <br/>
-                    Total orders
+                    Total Orders
                 </div>
 
                 <div class="col-4 text-center">
