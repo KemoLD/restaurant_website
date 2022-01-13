@@ -126,11 +126,6 @@
                         $source_path = $_FILES['image']['tmp_name'];
                         $destination_path = "../images/food/".$image_name;
                         $upload = move_uploaded_file($source_path, $destination_path);
-                        if ( ! is_writeable ( $destination_path ) )
-                        {
-                            echo 'Can\'t write to directory, insufficient permissions.';
-                            die();
-                        }
                         if($upload == false){
                             $_SESSION['upload'] = "<div class='error'>Failed to upload image</div>";
                             header("location:".SITE_URL.'admin/add-food.php') ; //redirect page

@@ -41,7 +41,7 @@
                 <input type="submit" name="submit" value="Login" class="btn-secondary">
                 <br><br>
 
-                <p class="text-center">Created by - <a href="#">Kemo Sonko </a></p>
+                <p class="text-center">Created by - <a href="https://www.linkedin.com/in/kemo-sonko/">Kemo Sonko </a></p>
                 
             </form>
         </div>

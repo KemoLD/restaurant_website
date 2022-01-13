@@ -4,7 +4,7 @@
     <div class="container">
 
         <div class="logo">
-            <a href="#" title="Logo">
+            <a href="<?php echo SITE_URL; ?>" title="Logo">
                 <img src="images/kemo-logo.png" alt="Restaurant Logo" class="img-responsive">
             </a>
         </div>
